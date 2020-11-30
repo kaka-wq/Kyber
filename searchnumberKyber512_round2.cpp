@@ -22,7 +22,7 @@ using namespace std;
 
 int main()
 {
-	//²ÎÊıKyber512
+	//Â²ÃÃŠÃ½Kyber512
 	int du=1024;//d_u=10
 	int dv=8;//d_v=3
 
